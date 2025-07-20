@@ -78,4 +78,3 @@ console.log(capital_letter("I am the student of SMIT"));
 
 
 
-
